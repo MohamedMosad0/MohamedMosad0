@@ -22,7 +22,7 @@ Android Developer passionate about building clean, scalable, and production-read
 - 🎓 Faculty of Science Graduate (2024)
 - 🌱 Currently improving Android Architecture & Clean Code
 - 💡 Passionate about building scalable Android applications
-- 🇪🇬 Menoufia, Egypt
+- 🇪🇬  Egypt
 
 ---
 
