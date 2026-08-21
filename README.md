@@ -149,9 +149,9 @@ Gradle
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedMosad0&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedMosad0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMosad0&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMosad0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
