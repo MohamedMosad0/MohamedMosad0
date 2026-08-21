@@ -22,11 +22,28 @@ Android Developer passionate about building clean, scalable, and production-read
 - 🎓 Faculty of Science Graduate (2024)
 - 🌱 Currently improving Android Architecture & Clean Code
 - 💡 Passionate about building scalable Android applications
-- 🇪🇬  Egypt
+- 🇪🇬 Egypt
 
 ---
 
 # 🚀 Featured Projects
+
+## 🛒 Avenra
+
+Android E-Commerce application built with Jetpack Compose, featuring authentication, product browsing and search, wishlist, cart, server-validated checkout, and a supporting REST API.
+
+### Highlights
+
+- Jetpack Compose + MVVM
+- Retrofit + Room
+- Secure session storage
+- Server-validated checkout
+- GitHub Actions CI/CD
+- Signed APK releases
+
+🔗 https://github.com/MohamedMosad0/Avenra
+
+---
 
 ## 🎮 PlayStation Manager
 
